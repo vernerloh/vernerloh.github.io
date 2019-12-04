@@ -1,1 +1,1 @@
-#vernerloh.github.io
+vernerloh.github.io/assets
